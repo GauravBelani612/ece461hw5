@@ -1,1 +1,15 @@
+body {
+    background-color: teal;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: orange;
+  }
+.class1 {color: yellow}
+.class1:hover {color: hotpink}
+
+#id1 {padding: 40px}
+#id1 {border: 50px}
 
